@@ -4,7 +4,7 @@ Utilities for date/time, environment parsing, dynamic class loading,
 percentages, string-to-bool conversion, choice tuples, and in-memory ZIP reading.
 
 .. image:: https://img.shields.io/badge/GitHub-Repository-blue?logo=github
-   :target: https://github.com/kelsoncm/python-sc4py
+   :target: https://github.com/python-by-kelsoncm/python-sc4py
    :alt: GitHub Repository
 
 .. image:: https://img.shields.io/badge/License-MIT-lemon.svg
@@ -15,20 +15,20 @@ percentages, string-to-bool conversion, choice tuples, and in-memory ZIP reading
    :target: https://pypi.org/project/sc4py/
    :alt: Python
 
-.. image:: https://github.com/kelsoncm/python-sc4py/actions/workflows/qa.yml/badge.svg
-   :target: https://github.com/kelsoncm/python-sc4py/actions/workflows/qa.yml
+.. image:: https://github.com/python-by-kelsoncm/python-sc4py/actions/workflows/qa.yml/badge.svg
+   :target: https://github.com/python-by-kelsoncm/python-sc4py/actions/workflows/qa.yml
    :alt: QA
 
-.. image:: https://codecov.io/gh/kelsoncm/python-sc4py/branch/main/graph/badge.svg
-   :target: https://github.com/kelsoncm/python-sc4py
+.. image:: https://codecov.io/gh/python-by-kelsoncm/python-sc4py/branch/main/graph/badge.svg
+   :target: https://github.com/python-by-kelsoncm/python-sc4py
    :alt: Coverage
 
-.. image:: https://github.com/kelsoncm/python-sc4py/actions/workflows/publish.yml/badge.svg
-   :target: https://github.com/kelsoncm/python-sc4py/actions/workflows/publish.yml
+.. image:: https://github.com/python-by-kelsoncm/python-sc4py/actions/workflows/publish.yml/badge.svg
+   :target: https://github.com/python-by-kelsoncm/python-sc4py/actions/workflows/publish.yml
    :alt: Publish
 
-.. image:: https://github.com/kelsoncm/python-sc4py/actions/workflows/docs.yml/badge.svg
-   :target: https://kelsoncm.github.io/python-sc4py/
+.. image:: https://github.com/python-by-kelsoncm/python-sc4py/actions/workflows/docs.yml/badge.svg
+   :target: https://python-by-kelsoncm.github.io/python-sc4py/
    :alt: Docs
 
 .. image:: https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit

@@ -2,16 +2,16 @@
 
 [![License](https://img.shields.io/badge/License-MIT-lemon.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/pypi/pyversions/sc4py.svg)](https://pypi.org/project/sc4py/)
-[![QA](https://github.com/kelsoncm/python-sc4py/actions/workflows/qa.yml/badge.svg)](https://github.com/kelsoncm/python-sc4py/actions/workflows/qa.yml)
-[![Coverage](https://codecov.io/gh/kelsoncm/python-sc4py/branch/main/graph/badge.svg)](https://codecov.io/gh/kelsoncm/python-sc4py)
-[![Publish](https://github.com/kelsoncm/python-sc4py/actions/workflows/publish.yml/badge.svg)](https://github.com/kelsoncm/python-sc4py/actions/workflows/publish.yml)
-[![Docs](https://github.com/kelsoncm/python-sc4py/actions/workflows/docs.yml/badge.svg)](https://kelsoncm.github.io/python-sc4py/)
+[![QA](https://github.com/python-by-kelsoncm/python-sc4py/actions/workflows/qa.yml/badge.svg)](https://github.com/python-by-kelsoncm/python-sc4py/actions/workflows/qa.yml)
+[![Coverage](https://codecov.io/gh/python-by-kelsoncm/python-sc4py/branch/main/graph/badge.svg)](https://codecov.io/gh/python-by-kelsoncm/python-sc4py)
+[![Publish](https://github.com/python-by-kelsoncm/python-sc4py/actions/workflows/publish.yml/badge.svg)](https://github.com/python-by-kelsoncm/python-sc4py/actions/workflows/publish.yml)
+[![Docs](https://github.com/python-by-kelsoncm/python-sc4py/actions/workflows/docs.yml/badge.svg)](https://python-by-kelsoncm.github.io/python-sc4py/)
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit)](https://github.com/pre-commit/pre-commit)
 
 Utilities for date/time, environment parsing, dynamic class loading, percentages, string-to-bool conversion, choice tuples,
 in-memory ZIP reading, and advanced string masking/validation (CPF/CNPJ, DVs, etc).
 
-> See each package's [documentation](https://kelsoncm.github.io/python-sc4py/) for details and usage examples.
+> See each package's [documentation](https://python-by-kelsoncm.github.io/python-sc4py/) for details and usage examples.
 
 ## Masks utilities (CPF/CNPJ, DVs, etc)
 
